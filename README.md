@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhmsssm&label=Profile%20views&color=0e75b6&style=flat" alt="dhmsssm" /> </p>
 
-- 🌱 I’m currently learning **java,c#,python,IT HND**
+- 🌱 I’m currently learning **java,c#,python**
 
 - 📫 How to reach me **info.sithum@gmail.com**
 
